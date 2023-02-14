@@ -14,7 +14,6 @@
 
 ## 🛠 Technologies used
 - HTML
-- Javascript
 - React
 - Next
 - TailwindCSS
